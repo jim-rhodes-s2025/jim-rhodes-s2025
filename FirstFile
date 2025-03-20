@@ -1,0 +1,5 @@
+# Jim Rhodes
+# 3/25/2025
+# A simple program to print a message
+
+print("Hello World")
