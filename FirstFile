@@ -2,4 +2,9 @@
 # 3/25/2025
 # A simple program to print a message
 
+# Jim Rhodes
+# 3/27/2025
+# Added new message
+
 print("Hello World")
+print("Welcome to GitHub")
